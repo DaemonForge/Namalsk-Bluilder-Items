@@ -2,13 +2,8 @@ class CfgPatches
 {
 	class ns_bldr_ns
 	{
-		units[] = {};
-		weapons[] = {};
 		requiredVersion = 0.1;
 		requiredAddons[] = {};
-		author = "";
-		name = "";
-		url = "";
 	};
 };
 class CfgVehicles
